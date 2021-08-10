@@ -1,0 +1,30 @@
+body{
+    width: 95%;
+    max-width: 800px;
+    margin: auto;
+    background: url(vermelho.jpg) center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    font-family: sans-serif;
+    line-height: 1.5;
+}
+
+main{
+    background:#00000057;
+    padding: 5px 40px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.logo{
+    text-align: center;
+}
+
+.cabeçalho{
+    text-align: center;
+}
+
+.bio{
+    text-align: center;
+}
